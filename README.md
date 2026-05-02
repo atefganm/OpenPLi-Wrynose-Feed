@@ -1,1 +1,1 @@
-# My-OpenPLi-Wrynose-Feed
+# OpenPLi-Wrynose-Feed
